@@ -1,0 +1,16 @@
+{
+  "author": "hsanjuan",
+  "bugs": {
+    "url": "https://github.com/apache/thrift"
+  },
+  "gx": {
+    "dvcsimport": "git.apache.org/thrift.git/lib/go/thrift"
+  },
+  "gxVersion": "0.14.0",
+  "language": "go",
+  "license": "Apache-2.0",
+  "name": "thrift-go",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.12.0"
+}
+
